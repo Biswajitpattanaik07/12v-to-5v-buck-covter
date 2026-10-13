@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "LM2596S") (type "KiCad") (uri "D:/LIB_LM2596S-5.0_NOPB/LM2596S-5.0_NOPB/KiCad/LM2596S.pretty") (options "") (descr ""))
+)
