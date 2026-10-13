@@ -401,16 +401,46 @@ This project is released under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 ## Board Images
 
-<img width="1127" height="517" alt="Screenshot 2026-10-06 103541" src="https://github.com/user-attachments/assets/ec85cb81-aca4-44e8-8cb4-6af638a49bb8" />
-<img width="1903" height="1012" alt="Screenshot 2026-10-06 104540" src="https://github.com/user-attachments/assets/428b9cd9-64c5-4290-8e77-87cd93249ff0" />
-<img width="1126" height="510" alt="Screenshot 2026-10-06 111251" src="https://github.com/user-attachments/assets/98665b48-d026-4a3a-908d-0ad622abae97" />
-<img width="1247" height="397" alt="Screenshot 2026-10-06 220910" src="https://github.com/user-attachments/assets/f31857d7-8cd1-493d-8bf1-b39049720722" />
-<img width="502" height="382" alt="Screenshot 2026-10-06 221254" src="https://github.com/user-attachments/assets/f949f5c9-ed76-4cf3-9a51-e306988f0db8" />
-<img width="542" height="361" alt="Screenshot 2026-10-06 221411" src="https://github.com/user-attachments/assets/777c8b5e-f3f0-496d-888e-64f6522dfcf0" />
-<img width="1021" height="240" alt="Screenshot 2026-10-06 221534" src="https://github.com/user-attachments/assets/a6bf4a0b-d013-499a-8804-485127575c42" />
-
-
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ec85cb81-aca4-44e8-8cb4-6af638a49bb8" width="450"><br>
+      <sub><b>Image 1</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/98665b48-d026-4a3a-908d-0ad622abae97" width="450"><br>
+      <sub><b>Image 2</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/428b9cd9-64c5-4290-8e77-87cd93249ff0" width="900"><br>
+      <sub><b>Image 3 (full view)</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f949f5c9-ed76-4cf3-9a51-e306988f0db8" width="450"><br>
+      <sub><b>Image 4</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/777c8b5e-f3f0-496d-888e-64f6522dfcf0" width="450"><br>
+      <sub><b>Image 5</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/f31857d7-8cd1-493d-8bf1-b39049720722" width="900"><br>
+      <sub><b>Image 6</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/a6bf4a0b-d013-499a-8804-485127575c42" width="900"><br>
+      <sub><b>Image 7</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## Author
 
